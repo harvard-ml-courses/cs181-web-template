@@ -1,0 +1,8 @@
+title: CS181
+
+url: https://harvard-ml-courses.github.io
+baseurl: /cs181-web-2021
+
+exclude:
+  - 2019
+  - Old
